@@ -15,5 +15,12 @@ public class App {
         System.out.println(produkt);
         System.out.println(kvot);
    
+        int rest1 = 10%3;
+        int rest2 = 7%4;
+
+        System.out.println("resten av 10/3 är " + rest1);
+        System.out.println("resten av 7/4 är " + rest2);
+
+        
     }
 }
