@@ -9,6 +9,11 @@ public class App {
         System.out.println(summa_addition);
         System.out.println(summa_subtraction);
 
+        int produkt = tal1 * tal2;
+        int kvot = tal1 / tal2;
+
+        System.out.println(produkt);
+        System.out.println(kvot);
    
     }
 }
